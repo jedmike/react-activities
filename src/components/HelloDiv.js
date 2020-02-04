@@ -1,5 +1,5 @@
 function HelloDiv() {
-  return null;
+    return "Hello Mike";
 }
 
 export default HelloDiv;
